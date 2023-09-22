@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-97d3e7dc","path":"/categories/qianduan/webpack/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};

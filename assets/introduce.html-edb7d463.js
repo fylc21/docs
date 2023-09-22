@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-63bd45f0","path":"/docs/guide/introduce.html","title":"行舟的全栈之路","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"以目标为导向，通过输出辅助学习","slug":"以目标为导向-通过输出辅助学习","link":"#以目标为导向-通过输出辅助学习","children":[]}],"git":{},"filePathRelative":"docs/guide/introduce.md"}');export{e as data};

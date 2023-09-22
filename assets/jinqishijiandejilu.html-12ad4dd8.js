@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-cff505aa","path":"/blogs/qianduan/other/jinqishijiandejilu.html","title":"近期的思考和记录","lang":"en-US","frontmatter":{"title":"近期的思考和记录","date":"2023/09/29","tags":["思考"],"categories":["前端/other"]},"headers":[],"git":{},"filePathRelative":"blogs/前端/other/近期时间的记录.md"}');export{t as data};
